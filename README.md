@@ -32,6 +32,6 @@ The outputs are currently saved in
 
        python3 fastrelax.py
 
-The outputs of fastrelax program are currently saved in the same directory as input:
-``'/data/'``
+The outputs of fastrelax program are currently saved in the below directory:
+``'/data/refined/'``
 
