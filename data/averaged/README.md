@@ -1,4 +1,4 @@
-## Contains average and final output of DeepProLigand:
+## Contains average and final prediction of DeepProLigand:
 The description of the files are as follows:
 
 
