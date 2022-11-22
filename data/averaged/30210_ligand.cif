@@ -1,0 +1,72 @@
+data_UNNAMED
+# 
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.auth_atom_id 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.auth_comp_id 
+_atom_site.label_comp_id 
+_atom_site.pdbx_auth_comp_id 
+_atom_site.auth_asym_id 
+_atom_site.label_asym_id 
+_atom_site.auth_seq_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z 
+_atom_site.occupancy 
+_atom_site.B_iso_or_equiv 
+_atom_site.pdbx_PDB_model_num 
+_atom_site.label_entity_id 
+_atom_site.type_symbol 
+_atom_site.pdbx_formal_charge 
+HETATM 1  C8  C8  . F86 F86 F86 P . 101  101  . 90.089  93.714  102.212 0.50 17.13 1 . C  ? 
+HETATM 2  C5  C5  . F86 F86 F86 P . 101  101  . 91.043  92.580  104.194 0.50 17.13 1 . C  ? 
+HETATM 3  C6  C6  . F86 F86 F86 P . 101  101  . 93.646  90.983  101.106 0.50 17.13 1 . C  ? 
+HETATM 4  N1  N1  . F86 F86 F86 P . 101  101  . 90.372  93.279  105.194 0.50 17.13 1 . N  ? 
+HETATM 5  C2  C2  . F86 F86 F86 P . 101  101  . 92.527  94.119  102.804 0.50 17.13 1 . C  ? 
+HETATM 6  N3  N3  . F86 F86 F86 P . 101  101  . 89.132  94.151  101.727 0.50 17.13 1 . N  ? 
+HETATM 7  C4  C4  . F86 F86 F86 P . 101  101  . 92.877  92.286  101.308 0.50 17.13 1 . C  ? 
+HETATM 8  O2  O2  . F86 F86 F86 P . 101  101  . 92.236  95.336  102.134 0.50 17.13 1 . O  ? 
+HETATM 9  N2  N2  . F86 F86 F86 P . 101  101  . 89.857  94.508  105.120 0.50 17.13 1 . N  ? 
+HETATM 10 O4  O4  . F86 F86 F86 P . 101  101  . 93.558  90.117  102.223 0.50 17.13 1 . O  ? 
+HETATM 11 N4  N4  . F86 F86 F86 P . 101  101  . 89.204  94.166  107.454 0.50 17.13 1 . N  ? 
+HETATM 12 C7  C7  . F86 F86 F86 P . 101  101  . 91.404  91.340  104.711 0.50 17.13 1 . C  ? 
+HETATM 13 O6  O6  . F86 F86 F86 P . 101  101  . 92.596  88.024  103.361 0.50 17.13 1 . O  ? 
+HETATM 14 C1  C1  . F86 F86 F86 P . 101  101  . 91.312  93.155  102.826 0.50 17.13 1 . C  ? 
+HETATM 15 C10 C10 . F86 F86 F86 P . 101  101  . 90.974  91.189  106.069 0.50 17.13 1 . C  ? 
+HETATM 16 C11 C11 . F86 F86 F86 P . 101  101  . 89.741  92.925  107.450 0.50 17.13 1 . C  ? 
+HETATM 17 C12 C12 . F86 F86 F86 P . 101  101  . 89.278  94.874  106.294 0.50 17.13 1 . C  ? 
+HETATM 18 C3  C3  . F86 F86 F86 P . 101  101  . 93.634  93.333  102.101 0.50 17.13 1 . C  ? 
+HETATM 19 C9  C9  . F86 F86 F86 P . 101  101  . 90.358  92.437  106.276 0.50 17.13 1 . C  ? 
+HETATM 20 N5  N5  . F86 F86 F86 P . 101  101  . 89.647  92.176  108.620 0.50 17.13 1 . N  ? 
+HETATM 21 O1  O1  . F86 F86 F86 P . 101  101  . 91.691  92.036  102.032 0.50 17.13 1 . O  ? 
+HETATM 22 O3  O3  . F86 F86 F86 P . 101  101  . 94.420  94.107  101.216 0.50 17.13 1 . O  ? 
+HETATM 23 O5  O5  . F86 F86 F86 P . 101  101  . 93.876  87.784  101.166 0.50 17.13 1 . O  ? 
+HETATM 24 P1  P1  . F86 F86 F86 P . 101  101  . 92.931  88.546  102.018 0.50 17.13 1 . P  ? 
+HETATM 25 ZN  ZN  . ZN  ZN  ZN  A . 1001 1001 . 96.331  117.049 82.559  1.00 39.81 1 . Zn ? 
+HETATM 26 ZN  ZN  . ZN  ZN  ZN  A . 1002 1002 . 78.230  111.511 90.977  1.00 39.19 1 . Zn ? 
+HETATM 27 P1  P1  . POP POP POP A . 1003 1003 . 98.704  88.743  103.451 0.50 19.48 1 . P  ? 
+HETATM 28 O1  O1  . POP POP POP A . 1003 1003 . 100.113 88.777  102.922 0.50 19.48 1 . O  ? 
+HETATM 29 O2  O2  . POP POP POP A . 1003 1003 . 97.985  87.427  103.304 0.50 19.48 1 . O  ? 
+HETATM 30 O3  O3  . POP POP POP A . 1003 1003 . 98.549  89.378  104.805 0.50 19.48 1 . O  ? 
+HETATM 31 O   O   . POP POP POP A . 1003 1003 . 97.928  89.726  102.450 0.50 19.48 1 . O  ? 
+HETATM 32 P2  P2  . POP POP POP A . 1003 1003 . 96.972  90.885  103.010 0.50 19.48 1 . P  ? 
+HETATM 33 O4  O4  . POP POP POP A . 1003 1003 . 96.725  91.745  101.796 0.50 19.48 1 . O  ? 
+HETATM 34 O5  O5  . POP POP POP A . 1003 1003 . 95.757  90.149  103.511 0.50 19.48 1 . O  ? 
+HETATM 35 O6  O6  . POP POP POP A . 1003 1003 . 97.772  91.527  104.104 0.50 19.48 1 . O  ? 
+HETATM 36 MG  MG  . MG  MG  MG  A . 1004 1004 . 97.212  88.488  100.157 0.50 14.12 1 . Mg ? 
+HETATM 37 MG  MG  . MG  MG  MG  A . 1005 1005 . 92.442  84.162  100.658 0.50 11.84 1 . Mg ? 
+# 
+_cell.entry_id      UNNAMED 
+_cell.length_a      1 
+_cell.length_b      1 
+_cell.length_c      1 
+_cell.angle_alpha   90 
+_cell.angle_beta    90 
+_cell.angle_gamma   90 
+# 
+
