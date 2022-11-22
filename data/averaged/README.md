@@ -5,3 +5,6 @@
 4. 7770_final.pdb -> Final protein complex structure of density map 7770
 5. 22898_final.pdb -> Final protein complex structure of density map 22898
 6. 30210_final.pdb -> Final protein complex structure of density map 30210
+7. 7770_ligands.cif -> Final extracted ligands of density map 7770
+8. 22898_ligands.cif -> Final extracted ligands of density map 22898
+9. 30210_ligands.cif -> Final extracted ligands of density map 3210
