@@ -41,3 +41,20 @@ The outputs are currently saved in
 The outputs of fastrelax program are currently saved in the below directory:
 ``'/data/refined/'``
 
+# Citations
+If you find our project or any of its elements useful in your own work or research, we kindly ask that you consider citing it appropriately. Your support and recognition of our efforts help to drive our research forward and make a positive impact in the field.
+```
+@Article{biom13010132,
+  AUTHOR = {Giri, Nabin and Cheng, Jianlin},
+  TITLE = {Improving Protein-Ligand Interaction Modeling with cryo-EM Data, Templates, and Deep Learning in 2021 Ligand Model Challenge},
+  JOURNAL = {Biomolecules},
+  VOLUME = {13},
+  YEAR = {2023},
+  NUMBER = {1},
+  ARTICLE-NUMBER = {132},
+  URL = {https://www.mdpi.com/2218-273X/13/1/132},
+  PubMedID = {36671518},
+  ISSN = {2218-273X},
+  DOI = {10.3390/biom13010132}}
+
+```
